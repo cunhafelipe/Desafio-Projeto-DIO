@@ -1,0 +1,83 @@
+## O que é Git e GitHub? 
+
+- Git = Software de controle de versão ( Vcs ) 
+- GitHub = Plataforma de Rede Social para Programadores.
+
+=======================================================================================
+
+## O que é Git? 
+
+**GIT ( Software de controle de versão) =** Quando falamos de versão falamos de *Versionamento*. Digamos "Tecnicamente" que o Git é uma ferramenta de versionamento de Software, versionamento de código.
+
+_Exemplo de Versionamento:_ Um software que irá organizar seu projeto e seu código, podendo voltar a qualquer ponto do projeto.
+
+=======================================================================================
+
+## Principais vantagens de Software de Versionamento: 
+
+- Controle de Histórico 
+- Trabalho em Equipe 
+- Ramificação do Projeto ( **Ramificação** e mesclagem permitem que diversos usuários trabalhem no mesmo modelo ao mesmo tempo. Para fazer isso, o proprietário do **projeto** cria uma **ramificação** do **projeto** raiz, que é uma cópia do **projeto**. Um membro da equipe pode modificar a **ramificação** conforme necessário, independentemente do **projeto** raiz.)
+- Segurança 
+- Organização
+
+=======================================================================================
+
+## O que é GitHub? 
+
+O GitHub é um dos mais famosos repositórios remotos que nós temos. (Os **repositórios remotos** são utilizados quando os desenvolvedores precisam compartilhar o seu trabalho com outros desenvolvedores do time. Não faremos uma introdução sobre estes nesse artigo, pois no link disponibilizado aqui já tratamos. Agora precisamos entender alguns conceitos sobre seus protocolos.)
+
+=======================================================================================
+
+## Funções do GitHub 
+
+- Repositórios Ilimitados 
+- Hospedagem de **Código Fonte** (Código-fonte é o conjunto de palavras ou símbolos escritos de forma ordenada, contendo instruções em uma das linguagens de programação existentes, de maneira lógica. Existem linguagens que são compiladas e as que são interpretadas.)
+- Características de Rede Social 
+- GitHub Pages Integrado
+- Colaboração 
+- Fork (**Fork** nada mais é que uma cópia de um repositório. Esta cópia vira um clone do estado atual do repositório, fazendo assim com que você possa experimentar mudanças e feature novas sem precisar utilizar o repositório principal.)
+
+=======================================================================================
+
+## Comandos do Git: 
+
+- CD ( Mudar Diretório)
+- Dir ( Listar Repositórios)
+- Mkdir ( Criar Diretório)
+- Del / Rmdir ( Deletar Diretório)
+- Git init (Iniciar Repositório)
+- Git Add (Mover Arquivos)
+- Git Commit ( Criar um commit ) - **Commit:** É um objeto que irá juntar tudo, dando sentido para a alteração 
+- Git Status (Irá monitorar os status dos arquivos, irá dizer se o arquivo está **Untracked**, **Modified**, **Unmodified**)
+
+=======================================================================================
+
+## O que são Arquivos Untracked / Modified / Unmodified 
+
+- **Arquivo Untracked =** É o estado onde o arquivo ainda não foi " Rastreado "
+- **Arquivo Modified =** É o estado onde o arquivo já sofreu alterações em relação a sua Referência 
+- **Arquivo Unmodified =** É o estado onde o arquivo ainda não sofreu alterações a sua Referência
+
+=======================================================================================
+
+## O que é SHA1? 
+
+- A sigla **sha** significa **Secure Hash Algorithm** (Algoritmo de Hash Seguro) é um conjunto de funções Hash Criptográficas projetadas pela **NSA** (Agência de Segurança Nacional dos Estados Unidos)
+
+__Falando a grosso modo ele é um Algoritmo que irá pegar seu arquivo, seja ele uma foto, frase e irá embaralhar de uma forma bem especifica!__
+
+=======================================================================================
+
+## O que é Blob?
+
+- **Blob =** Cada arquivo no **Git** é armazenado como um objeto **blob**, por exemplo, a partir do conteúdo do arquivo logo. png ele gera um hash que será armazenado em algum lugar endereçável como aa1b2fb696a831c89c53f787e03d863691d2b671 . O mesmo ocorre com o arquivo app.
+
+=======================================================================================
+
+## O que é Tree? 
+
+- **Tree = ** A **tree** representa um diretório, contendo uma mistura de blobs e **trees**. Podemos descobrir que ela resolve usar **git** rev-parse, para determinar que essa **tree** é um objeto com o hash 2b61e34…. Como é que essa **tree** é criada? Bem, mais uma vez, é um objeto bem formatado que é numerado de acordo com o sha1
+
+
+
