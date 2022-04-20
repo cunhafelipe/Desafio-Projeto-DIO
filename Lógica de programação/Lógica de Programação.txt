@@ -1,0 +1,110 @@
+## Lógica e Lógica de Programação :computer:
+
+- **Lógica:** "Coerência de raciocínio de ideias"
+- **Lógica de Programação:** A lógica de programação significa apenas contextualizar a **Lógica** na programação de computadores, buscando a melhor sequência de ações para solucionar um problema.
+
+=======================================================================================
+
+#### O que é Programar e Metacognição? 
+
+- **Programar:** Não é simplesmente resolver códigos. **Programar** é resolver problemas.
+- **Metacognição:** Pensar como você pensa. (_Um **exemplo** de **metacognição** pode ser o fato de estar lendo um texto e, ao verificar se o compreendemos, nos damos conta de que a resposta é não e lemos de novo. Ou, por **exemplo**, quando ao solucionar um problema, percebemos que a estratégia mental que estávamos aplicando não funciona e mudamos para outra_.)
+
+=======================================================================================
+
+## Algoritmos e Pseudocódigo 
+
+- **Algoritmo:** É uma sequência de passos que resolve um problema. Um conjunto de instruções, como uma receita de bolo, constituído de um número finito de passos. Para que os dados sejam processados, há a necessidade de se utilizar uma linguagem de **programação**, pois os computadores não executam diretamente os **algoritmos**.
+
+- **Pseudocódigo:** É uma forma genérica de escrever um algoritmo, utilizando uma linguagem simples (_nativa a quem o escreve, de forma a ser entendida por qualquer pessoa_) sem necessidade de conhecer a sintaxe de nenhuma linguagem de programação.
+
+  
+
+  ##### =========================== Veja na pratica um Pseudocódigo ==========================
+
+  - Através do Link: https://rachacuca.com.br/jogos/pinguins-numa-fria/ você ira testar seu raciocínio lógico e também verá como o **Pseudocódigo** é feito.
+
+    ​                                                   
+
+    ​                                                      **COMO JOGAR?** 
+
+  _Os pinguins filhotes tem medo de ficar longe de seus pais, por isso você nunca deve esquecer eles sozinhos. O pequeno iceberg só se movimenta com um pinguim em cima dele_.
+
+  
+
+  ##### Classificação 
+
+  - **Idade:** Mais de 6 anos :baby: 
+  - **Duração:** De 5 a 15 minutos :timer_clock:
+  - **Dificuldade:** Nível Médio :dagger:
+
+  
+
+  ##### Pseudocódigo ( Pinguins numa Fria )
+
+  <Inicio do jogo>
+
+  Pinguin filhote ( Vermelho ) entra no iceberg 
+  Pinguin pai ( Vermelho ) entra no iceberg  
+  iceberg  anda 
+  Pinguin pai ( Vermelho ) Sai do iceberg  
+  iceberg  anda
+  Pinguin filhote ( Verde ) entra no iceberg 
+  iceberg  anda
+  Pinguin filhote ( Vermelho ) sai do iceberg 
+  iceberg  anda
+  Pinguin pai ( Verde ) entra no iceberg 
+  iceberg  anda
+  Pinguin pai ( Verde ) sai do iceberg 
+  iceberg  anda
+  Pinguin filhote ( Azul ) entra no iceberg 
+  iceberg  anda
+  Pinguin filhote ( Verde ) sai do iceberg 
+  iceberg  anda
+  Pinguin pai ( Azul ) entra no iceberg 
+  iceberg  anda
+  Pinguin pai ( Azul ) sai do iceberg 
+  Pinguin filho ( Azul ) sai do iceberg 
+
+  <Fim do jogo> 
+
+  
+
+=======================================================================================
+
+## Fluxograma e Variáveis 
+
+- **Fluxograma:** É uma ferramenta utilizada para representar gráficamente o algoritmo, isto é, a sequência lógica e coerente do Fluxo de Dados. Um **fluxograma** é um diagrama que descreve um processo, sistema ou algoritmo de computador. São amplamente utilizados em várias áreas para documentar, estudar, planejar, melhorar e comunicar processos complexos por meio de diagramas claros e fáceis de entender
+
+![fluxograma-exemplo](C:\Users\felip\Desktop\fluxograma-exemplo.jpg)
+
+
+
+
+
+- **Variáveis:**  As variáveis são estruturas importantes em qualquer programação, independentemente da linguagem que se utilize para implementar os códigos ou programas. Elas podem ser entendidas como uma caixinha, onde os dados são armazenados temporariamente ou em definitivo e que são manipuladas durante a execução do programa. As variáveis devem ser inicializadas antes de usadas, mas, cabe aqui uma ressalva, dependendo da linguagem de programação isso não é necessário, o compilador da linguagem pode fazer isso automaticamente. Neste caso, onde serão implementados os códigos em linguagem C/C++ isso não ocorre, ou seja, deve-se iniciar as variáveis sempre que utilizadas pela primeira vez.
+
+  As variáveis são inicializadas quanto ao tipo e quanto ao valor, isso significa que terá de ser definida qual o uso que iremos atribuir a ela. As variáveis podem ser do tipo inteira, decimal, caractere, string, data e somente decimal positiva, assim, dependendo do tipo de dados que serão armazenados, tem-se um tipo definido para ela.
+
+![variaveis](C:\Users\felip\Desktop\variaveis.png)
+
+![8](C:\Users\felip\Desktop\8.jpg)
+
+=======================================================================================
+
+## Linguagem de Programação e o Portugol 
+
+- É uma linguagem escrita e formal que especifica um conjunto de instruções e regras usadas para gerar um programa ( **Software** ). Um Software pode ser desenvolvido para rodar em um computador, dispositivo móvel ou em qualquer equipamento que permita sua execução.
+
+ 
+
+**O que é óbvio para você, certamente não é óbvio para uma máquina. E se você quer que a máquina faça algo para você, você precisa então " Falar com ela "**
+
+
+
+- A função da Linguagem de Programação é servir de um meio de comunicação entre computadores e humanos.
+
+
+
+- **Portugol:** É um pseudolinguagem que permite ao leitor desenvolver algoritmos estruturados em português de forma simples e intuitiva, independe da linguagem de programação.
+
