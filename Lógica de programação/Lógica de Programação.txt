@@ -76,9 +76,7 @@
 
 - **Fluxograma:** É uma ferramenta utilizada para representar gráficamente o algoritmo, isto é, a sequência lógica e coerente do Fluxo de Dados. Um **fluxograma** é um diagrama que descreve um processo, sistema ou algoritmo de computador. São amplamente utilizados em várias áreas para documentar, estudar, planejar, melhorar e comunicar processos complexos por meio de diagramas claros e fáceis de entender
 
-![fluxograma-exemplo](C:\Users\felip\Desktop\fluxograma-exemplo.jpg)
-
-
+![fluxograma-exemplo](C:\Users\felip\Documents\Projeto Git - GitHub\dio-desafio-github\Lógica de programação\Link e imagens usados em Lógica\fluxograma-exemplo.jpg)
 
 
 
@@ -86,9 +84,9 @@
 
   As variáveis são inicializadas quanto ao tipo e quanto ao valor, isso significa que terá de ser definida qual o uso que iremos atribuir a ela. As variáveis podem ser do tipo inteira, decimal, caractere, string, data e somente decimal positiva, assim, dependendo do tipo de dados que serão armazenados, tem-se um tipo definido para ela.
 
-![variaveis](C:\Users\felip\Desktop\variaveis.png)
+![variaveis](C:\Users\felip\Documents\Projeto Git - GitHub\dio-desafio-github\Lógica de programação\Link e imagens usados em Lógica\variaveis.png)
 
-![8](C:\Users\felip\Desktop\8.jpg)
+![8](C:\Users\felip\Documents\Projeto Git - GitHub\dio-desafio-github\Lógica de programação\Link e imagens usados em Lógica\8.jpg)
 
 =======================================================================================
 
